@@ -1,0 +1,11 @@
+{
+    "_id": "5ec6fec2318d26b626d53c61",
+    "name": "WorkVine209",
+    "location": {
+        "type": "Point",
+        "coordinates": [
+            -121.4123,
+            37.7621
+        ]
+    }
+}
